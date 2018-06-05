@@ -8,3 +8,9 @@ Neste método cada requisição deve ser finalizada para possibilitar que uma no
 **Requisições Assíncronas**
 
 Neste método é possível efetuar diversas requisições de forma paralela, sendo que a resposta é retornada quando estiver pronta.
+
+**Softwares Utilizados**
+
+- XAMPP
+
+https://www.apachefriends.org/pt_br/index.html
