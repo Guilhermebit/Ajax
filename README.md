@@ -14,3 +14,5 @@ Neste método é possível efetuar diversas requisições de forma paralela, sen
 - XAMPP
 
 https://www.apachefriends.org/pt_br/index.html
+
+
